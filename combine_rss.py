@@ -10,7 +10,7 @@ RSS_URLS = [
     "https://thediplomat.com/feed/"
 ]
 
-ARCHIVE_PREFIX = "https://archive.is/latest/"
+ARCHIVE_PREFIX = "https://archive.is/o/5WQRS/"
 OUTPUT_FILE = "combined.xml"
 MAX_ITEMS = 500
 MEDIA_NS = "http://search.yahoo.com/mrss/"
