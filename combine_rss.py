@@ -7,10 +7,10 @@ import os
 import re
 
 RSS_URLS = [
-    "https://www.nytimes.com/services/xml/rss/nyt/World.xml"
+    "https://thediplomat.com/feed/"
 ]
 
-ARCHIVE_PREFIX = "https://archive.is/o/N6yE6/"
+ARCHIVE_PREFIX = "https://archive.is/latest/"
 OUTPUT_FILE = "combined.xml"
 MAX_ITEMS = 500
 MEDIA_NS = "http://search.yahoo.com/mrss/"
